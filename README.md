@@ -2,6 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuvIsaac&layout=compact)
 
+### PS Rating
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tae1015)](https://solved.ac/taey1015/)
+
 <!--
 **DuvIsaac/DuvIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

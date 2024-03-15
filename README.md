@@ -1,6 +1,6 @@
-# DuvIssac
+# DuvIsaac
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuvIssac&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuvIsaac&show_icons=true&theme=radical)
 
 <!--
 **DuvIsaac/DuvIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

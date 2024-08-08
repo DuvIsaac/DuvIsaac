@@ -1,8 +1,8 @@
 # DuvIsaac
 
 ### PS Rating
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taey1015)](https://solved.ac/taey1015/)  
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=warm)](https://solved.ac/taey1015/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taey1015)](https://solved.ac/taey1015/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=taey1015&theme=warm)](https://solved.ac/taey1015/)
 
 <!--
 **DuvIsaac/DuvIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

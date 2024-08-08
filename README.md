@@ -2,7 +2,7 @@
 
 ### PS Rating
 <h3>solved.ac Profile</h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taey1015)](https://solved.ac/taey1015/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taey1015)](https://solved.ac/taey1015/)  
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=warm)](https://solved.ac/taey1015/)
 
 <!--
